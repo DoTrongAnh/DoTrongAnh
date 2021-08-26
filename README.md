@@ -16,6 +16,10 @@
   - My LinkedIn profile. The more connections the better.
   - My Facebook page, though I rarely use FB. But you can contact me for anything not work-related.
   - Interested in video games? Play Genshin Impact with me (DM me at FB and give me your UID, so I can add and join you).
+- Taking note of recruiters:
+  - Clairvoyant
+  - Pitstop
+  - TribalScale
 
 <!---
 DoTrongAnh/DoTrongAnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
