@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning ...
   - French, first of all. I have a love-hate relationship with this language, but I won't give up on it.
   - From XML basics to Scala fundamentals, as I approach functional programming paradigm, I'll have a lot to learn off-program.
+  - Recently I've also been learning Machine Learning fundamentals. Hopefullly I can kickstart my career into the Data Science space.
 - 💞️ I’m looking to collaborate on ...
   - Developing new software techologies
   - Conducting experiments with deep learning algorithms
