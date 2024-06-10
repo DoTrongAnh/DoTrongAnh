@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DoTrongAnh
-  - Recent graduate in Computer Engineering (Master), featuring Sofware Development, Data Analysis, Database fundamentals and System Reliability Testing, with corresponding language and techologies.
+  - Graduate in Computer Engineering (Master), featuring Sofware Development, Data Analysis, Database fundamentals and System Reliability Testing, with corresponding language and techologies.
   - Pursuing a career in the field in Canada (being half the globe away makes remote working not at all ideal, and it limits a lot of job opportunities sadly.)
 - 👀 I’m interested in ...
   - Writing code in general, have the most fun with learning by code experimentation.
